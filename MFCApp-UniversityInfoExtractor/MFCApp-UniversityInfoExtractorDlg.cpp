@@ -13,7 +13,7 @@
 #include "WebCrawler.h"
 #include <afxmt.h>
 #include <algorithm>
-#include <afxcmn.h> // 进度条控件
+#include <afxcmn.h> 
 #include <future>
 #include <mutex>
 #include <atomic>
